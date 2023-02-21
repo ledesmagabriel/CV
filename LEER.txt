@@ -1,0 +1,11 @@
+Identidad falsa, obtenida de la pagina web "https://randomuser.me/"
+
+Tecnologias usadas:
+* HTML
+* CSS
+* Boostrap
+* Javascript
+
+Recursos usados de la web:
+* Google Fonts
+* Font Awesome
