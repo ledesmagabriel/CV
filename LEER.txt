@@ -1,4 +1,5 @@
-Identidad falsa, obtenida de la pagina web "https://randomuser.me/"
+Identidad falsa, obtenida de la pagina web "https://randomuser.me/", todos los datos proporcionados
+sobre esta persona son ficticios.
 
 Tecnologias usadas:
 * HTML
